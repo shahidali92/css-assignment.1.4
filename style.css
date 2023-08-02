@@ -1,0 +1,89 @@
+
+     .p{
+          background-color: aqua;
+     }
+     body{
+          background-color: rgb(247, 246, 246);
+          padding: 20px;
+          margin: 20px;
+     }
+     .form{
+          background-color:#ffffff;
+         width: 28%;
+         height: 400px;
+         padding-left: 20px;
+         padding-top: 10px;
+         margin-bottom: 10px;
+         display: inline-block;
+         margin-left:  30%;
+         margin-top: 80px;
+         margin-right: 30px; 
+         border-radius: 8px;
+     }
+     .f{
+          width: 32%;
+          height: 250px;
+          padding-left: 30px;
+          padding-top: 2px;
+          display: inline-block;
+          margin-left: 40px;
+          font-size: 18pt;
+          margin-top: 60px;
+          margin-right: 1px;
+          line-height: 25px;
+     }
+input{
+     background-color:#ffffff;
+     font-size: 16pt;
+     width: 90%;
+     height: 60px;
+     padding-left: 10px;
+     border: 2px solid hsl(0, 0%, 85%);
+     border-radius: 10px;
+}
+     
+
+     h1{
+          color: blue;
+          font-size: 36pt;
+          font-family:monospace;}
+
+          .bb{
+               width: 338px;
+               background-color: blue;
+               border-radius: 10px; 
+               border-style: hidden; 
+               color: white;
+               font-weight: bold;
+               
+          }
+          .cc{
+               background-color: rgb(66, 241, 66);
+               color: white;
+               font-weight: bold;
+               padding-left: 10px;
+               padding-right: 10px;
+               margin-right: 10px;
+               border-style:solid;
+               border-radius: 10px;
+               width: 60%;
+               height: 50px;
+               margin-left: 70px;
+               font-size: 15pt;
+               border-style: hidden;
+               
+          }
+          
+.cc:hover,.bb:hover{
+     background-color: rgba(235, 146, 37, 0.562);
+     cursor: pointer;
+}
+input:hover{
+     background-color: cornsilk;
+}
+.aa{
+     text-align: center;
+     font-size: 16pt;
+     border-bottom: 1px solid black;
+     color: blue;
+}
